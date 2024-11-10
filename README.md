@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @omarafify7
 - 👀 I’m interested in networking and building professional relationships 
 - 🌱 I’m currently working on my Bachelor of Computer Engineering as well as a Certificate in Data Science.
-- 📫 How to reach me: omaradelafify2003@gmail.com | 647-514-9511
+
 
 <!---
 omarafify7/omarafify7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
