@@ -1,7 +1,5 @@
 <div align="center">
-  <a href="https://omarafify.com">
-    <img src="https://omarafify.com/profile_picture.jpg" alt="Omar Afify" width="150" height="150" style="border-radius: 50%;" />
-  </a>
+
 
   <h1 align="center">Hi there, I'm Omar Afify 👋</h1>
   <h3 align="center">Cloud & ML-focused Computer Engineer</h3>
